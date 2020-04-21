@@ -1,0 +1,6 @@
+torch
+html2text
+simpletransformers
+flask
+google
+markdown
